@@ -1,0 +1,18 @@
+D:\variska\backend\src\middleware\auth.ts:21
+  if (!secret) throw new Error('JWT_SECRET environment variable is not set!');
+                     ^
+
+
+Error: JWT_SECRET environment variable is not set!
+    at <anonymous> (D:\variska\backend\src\middleware\auth.ts:21:22)
+    at jwt (D:\variska\backend\src\middleware\auth.ts:23:1)
+    at Object.<anonymous> (D:\variska\backend\src\middleware\auth.ts:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+
+Node.js v22.13.1

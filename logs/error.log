@@ -1,0 +1,918 @@
+2026-03-14 23:23:58 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-14 23:23:59 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-14 23:24:01 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-14 23:24:05 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-14 23:24:10 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-14 23:24:11 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-14 23:24:14 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-14 23:24:15 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-14 23:24:15 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-14 23:24:16 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-14 23:24:16 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-14 23:24:21 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-14 23:24:21 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-14 23:24:22 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-14 23:24:22 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-14 23:24:50 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-14 23:24:51 error: Error: Not allowed by CORS
+    at origin (D:\variska\backend\src\index.ts:59:8)
+    at D:\variska\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\variska\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\variska\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (D:\variska\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\variska\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\variska\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\variska\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\variska\backend\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (D:\variska\backend\node_modules\express\lib\middleware\init.js:40:5)
+2026-03-25 22:32:59 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:81:29
+2026-03-25 22:37:56 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:81:29
+2026-03-26 23:56:46 error: error: password authentication failed for user "postgres"
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:81:29
+2026-03-26 23:56:47 error: error: password authentication failed for user "postgres"
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async productFiltersHandler (D:\variska\backend\dist\routes\products.js:94:26)
+2026-03-26 23:56:48 error: error: password authentication failed for user "postgres"
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:81:29
+2026-03-26 23:56:49 error: error: password authentication failed for user "postgres"
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async productFiltersHandler (D:\variska\backend\dist\routes\products.js:94:26)
+2026-03-26 23:56:50 error: error: password authentication failed for user "postgres"
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:81:29
+2026-03-26 23:56:51 error: error: password authentication failed for user "postgres"
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async productFiltersHandler (D:\variska\backend\dist\routes\products.js:94:26)
+2026-03-26 23:56:59 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:81:29
+2026-03-26 23:57:00 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async productFiltersHandler (D:\variska\backend\dist\routes\products.js:94:26)
+2026-03-26 23:57:20 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:81:29
+2026-03-26 23:57:21 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async productFiltersHandler (D:\variska\backend\dist\routes\products.js:94:26)
+2026-03-26 23:57:26 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:81:29
+2026-03-26 23:57:27 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async productFiltersHandler (D:\variska\backend\dist\routes\products.js:94:26)
+2026-03-26 23:57:34 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:81:29
+2026-03-26 23:57:34 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async productFiltersHandler (D:\variska\backend\dist\routes\products.js:94:26)
+2026-03-26 23:57:43 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:81:29
+2026-03-26 23:57:43 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async productFiltersHandler (D:\variska\backend\dist\routes\products.js:94:26)
+2026-03-27 00:23:33 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\variska\backend\dist\index.js:200:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-03-27 01:27:21 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\variska\backend\dist\index.js:200:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-03-27 18:59:52 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:81:29
+2026-03-27 19:00:41 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:81:29
+2026-03-27 19:28:49 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\variska\backend\dist\index.js:214:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-03-27 19:30:11 error: error: column "handling_fee" of relation "orders" does not exist
+    at D:\variska\backend\node_modules\pg\lib\client.js:631:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\orders.js:221:26
+2026-03-27 19:30:14 error: error: column "handling_fee" of relation "orders" does not exist
+    at D:\variska\backend\node_modules\pg\lib\client.js:631:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\orders.js:221:26
+2026-03-27 19:30:19 error: error: column "handling_fee" of relation "orders" does not exist
+    at D:\variska\backend\node_modules\pg\lib\client.js:631:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\orders.js:221:26
+2026-03-27 19:30:33 error: error: column "handling_fee" of relation "orders" does not exist
+    at D:\variska\backend\node_modules\pg\lib\client.js:631:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\orders.js:221:26
+2026-03-28 10:32:21 error: error: column "handling_fee" of relation "orders" does not exist
+    at D:\variska\backend\node_modules\pg\lib\client.js:631:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\orders.js:221:26
+2026-03-28 10:32:39 error: error: column "handling_fee" of relation "orders" does not exist
+    at D:\variska\backend\node_modules\pg\lib\client.js:631:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\orders.js:221:26
+2026-03-28 10:36:40 error: error: column "handling_fee" of relation "orders" does not exist
+    at D:\variska\backend\node_modules\pg\lib\client.js:631:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\orders.js:221:26
+2026-03-28 10:36:47 error: error: column "handling_fee" of relation "orders" does not exist
+    at D:\variska\backend\node_modules\pg\lib\client.js:631:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\orders.js:221:26
+2026-03-28 10:36:52 error: error: column "handling_fee" of relation "orders" does not exist
+    at D:\variska\backend\node_modules\pg\lib\client.js:631:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\orders.js:221:26
+2026-03-28 10:37:26 error: error: column "handling_fee" of relation "orders" does not exist
+    at D:\variska\backend\node_modules\pg\lib\client.js:631:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\orders.js:221:26
+2026-03-28 10:39:39 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\variska\backend\dist\index.js:214:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-03-28 10:40:05 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\variska\backend\dist\index.js:214:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-03-28 10:40:34 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\variska\backend\dist\index.js:214:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-03-28 10:44:01 error: error: column "handling_fee" of relation "orders" does not exist
+    at D:\variska\backend\node_modules\pg\lib\client.js:631:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\orders.js:221:26
+2026-03-28 10:48:44 error: error: column "handling_fee" of relation "orders" does not exist
+    at D:\variska\backend\node_modules\pg\lib\client.js:631:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\orders.js:221:26
+2026-03-28 12:08:20 error: error: column "handling_fee" of relation "orders" does not exist
+    at D:\variska\backend\node_modules\pg\lib\client.js:631:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (D:\variska\backend\src\routes\orders.ts:252:22)
+2026-03-28 12:08:49 error: error: column "handling_fee" of relation "orders" does not exist
+    at D:\variska\backend\node_modules\pg\lib\client.js:631:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (D:\variska\backend\src\routes\orders.ts:252:22)
+2026-03-28 12:11:01 error: error: column "handling_fee" of relation "orders" does not exist
+    at D:\variska\backend\node_modules\pg\lib\client.js:631:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (D:\variska\backend\src\routes\orders.ts:252:22)
+2026-04-02 21:27:26 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:109:25
+2026-04-02 21:27:26 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:116:22
+2026-04-02 21:29:00 error: Error: Connection terminated due to connection timeout
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:109:25
+2026-04-04 20:20:49 error: Error: getaddrinfo ENOTFOUND aws-1-ap-south-1.pooler.supabase.com
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:115:25
+2026-04-08 12:01:53 error: Error: getaddrinfo ENOTFOUND aws-1-ap-south-1.pooler.supabase.com
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:115:25
+2026-04-11 20:09:24 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:310:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:314:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-11 20:13:07 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:310:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:314:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-11 20:13:11 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:310:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:314:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-11 20:43:07 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:310:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:314:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-11 20:43:35 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:310:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:314:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-11 20:43:57 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:310:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:314:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-11 20:49:34 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-11 20:50:09 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-11 20:50:12 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 11:12:48 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 12:14:16 error: Error: Connection terminated unexpectedly
+    at Connection.<anonymous> (D:\variska\backend\node_modules\pg\lib\client.js:180:73)
+    at Object.onceWrapper (node:events:638:28)
+    at Connection.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\variska\backend\node_modules\pg\lib\connection.js:61:12)
+    at Socket.emit (node:events:536:35)
+    at TCP.<anonymous> (node:net:351:12)
+2026-04-12 12:21:21 error: Error: getaddrinfo ENOTFOUND aws-1-ap-south-1.pooler.supabase.com
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (D:\variska\backend\src\routes\products.ts:83:25)
+2026-04-12 12:21:21 error: Error: getaddrinfo ENOTFOUND aws-1-ap-south-1.pooler.supabase.com
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (D:\variska\backend\src\routes\customers.ts:183:22)
+2026-04-12 12:30:43 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 13:14:30 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 13:14:40 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 13:14:48 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 13:26:52 error: error: duplicate key value violates unique constraint "products_sku_key"
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (D:\variska\backend\src\routes\products.ts:159:20)
+2026-04-12 13:31:13 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\variska\backend\dist\index.js:329:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-04-12 13:43:08 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\variska\backend\dist\index.js:329:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-04-12 13:43:26 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\variska\backend\dist\index.js:329:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-04-12 13:44:16 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\variska\backend\dist\index.js:329:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-04-12 14:16:50 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 14:16:50 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:02:37 error: error: duplicate key value violates unique constraint "products_sku_key"
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:175:22
+2026-04-12 15:02:41 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:02:41 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:02:46 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:02:46 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:03:00 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:03:00 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:04:16 error: error: duplicate key value violates unique constraint "products_sku_key"
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:175:22
+2026-04-12 15:04:31 error: error: duplicate key value violates unique constraint "products_sku_key"
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:175:22
+2026-04-12 15:04:35 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:04:37 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:28:10 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:28:10 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:28:51 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:28:51 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:33:08 error: error: duplicate key value violates unique constraint "products_sku_key"
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:175:22
+2026-04-12 15:33:28 error: error: duplicate key value violates unique constraint "products_sku_key"
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:175:22
+2026-04-12 15:34:05 error: error: duplicate key value violates unique constraint "products_sku_key"
+    at D:\variska\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\variska\backend\dist\routes\products.js:175:22
+2026-04-12 15:40:56 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:40:57 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:44:41 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:44:42 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:311:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:315:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:52:37 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:315:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:319:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:52:38 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:315:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:319:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:55:59 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:316:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:320:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:55:59 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:316:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:320:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:56:02 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:339:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:343:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+2026-04-12 15:56:02 error: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\variska\backend\node_modules\express\lib\application.js:635:24)
+    at returnsRefundsRoutes (D:\variska\backend\src\index.ts:339:5)
+    at Object.<anonymous> (D:\variska\backend\src\index.ts:343:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.transformer (D:\variska\backend\node_modules\tsx\dist\register-D46fvsV_.cjs:3:1104)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
