@@ -65,7 +65,12 @@ if (!shouldUseUrl) {
   logger.info(`DB network family: ${forceIPv4 ? 'ipv4' : 'auto'}`);
 }
 
-const pool = new Pool(connectionConfig);
+const pool = new Pool({
+  connectionString: process.env.DATABASE_URL,
+  ssl: {
+    rejectUnauthorized: false,
+  },
+});
 
 pool.on('error', (err) => {
   logger.error(`PostgreSQL pool error: ${err.message}`, { stack: err.stack });
