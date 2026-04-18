@@ -194,4 +194,13 @@ app.listen(PORT, () => {
   console.log(`🚀 Varisca API running on port ${PORT}`);
 });
 
+app.get('/test-db', async (req, res) => {
+  try {
+    const result = await pool.query('SELECT * FROM customers LIMIT 1');
+    res.json(result.rows);
+  } catch (err: any) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 export default app;
