@@ -68,12 +68,8 @@ if (!shouldUseUrl) {
 const pool = new Pool({
   connectionString: process.env.DATABASE_URL,
   ssl: {
-    rejectUnauthorized: false,
-  },
-});
-
-pool.on('error', (err) => {
-  logger.error(`PostgreSQL pool error: ${err.message}`, { stack: err.stack });
+    rejectUnauthorized: false
+  }
 });
 
 export default pool;
