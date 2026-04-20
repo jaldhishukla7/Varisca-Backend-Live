@@ -67,18 +67,17 @@ if (!shouldUseUrl) {
 
 const pool = new Pool({
   connectionString: process.env.DATABASE_URL,
-  ssl: {
-    rejectUnauthorized: false
-  },
-  options: '-c search_path=public'
+  ssl: { rejectUnauthorized: false }
 });
 
-pool.on('connect', () => {
-  console.log('✅ PostgreSQL Connected');
-});
-
-pool.on('error', (err) => {
-  console.error('❌ PostgreSQL Error:', err);
+// 👇 Add this block
+pool.on('connect', async (client) => {
+  try {
+    await client.query('SET search_path TO public');
+    console.log('✅ Schema set to public');
+  } catch (err) {
+    console.error('Failed to set schema:', err);
+  }
 });
 
 export default pool;
