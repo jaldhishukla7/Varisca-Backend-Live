@@ -93,47 +93,37 @@ const customOrderLimiter = rateLimit({
   message: { error: 'Too many custom order submissions. Please try again after 1 hour.' },
 });
 
-// ─── Middleware ──────────────────────────────────────────────────────
-
-/* =========================
-   ✅ CORS FIX (ONLY CHANGE)
-   ========================= */
-
+// ─── CORS ────────────────────────────────────────────────────────────
 const allowedOrigins = [
   "https://varisca.in",
   "https://www.varisca.in"
 ];
 
-app.use(cors({
-  origin: function (origin, callback) {
+const corsOptions = {
+  origin: function (origin: string | undefined, callback: (err: Error | null, allow?: boolean) => void) {
     if (!origin) return callback(null, true);
-
-    if (
-      allowedOrigins.includes(origin) ||
-      origin.endsWith(".vercel.app")
-    ) {
+    if (allowedOrigins.includes(origin) || origin.endsWith(".vercel.app")) {
       return callback(null, true);
     }
-
-    return callback(null, false); // IMPORTANT: no error
+    return callback(null, false);
   },
   methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
   allowedHeaders: ["Content-Type", "Authorization"],
   credentials: true
-}));
+};
 
-app.options('*', cors());
+// ── OPTIONS preflight MUST be before helmet ──────────────────────────
+app.options('*', cors(corsOptions));
+app.use(cors(corsOptions));
 
-/* =========================
-   END OF CORS FIX
-   ========================= */
-
+// ─── Helmet ──────────────────────────────────────────────────────────
 app.use(
   helmet({
     crossOriginResourcePolicy: { policy: 'cross-origin' },
   }),
 );
 
+// ─── Payment Webhook (raw body before json parser) ───────────────────
 app.post(
   '/api/payment/webhook',
   express.raw({ type: 'application/json' }),
@@ -142,6 +132,7 @@ app.post(
   },
 );
 
+// ─── Global Rate Limiter ─────────────────────────────────────────────
 app.use((req, res, next) => {
   if (req.method === 'OPTIONS') return next();
   if (req.method === 'GET' && (req.path === '/api/products' || req.path.startsWith('/api/products/'))) {
