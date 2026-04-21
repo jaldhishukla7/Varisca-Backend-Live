@@ -31,7 +31,6 @@ import paymentRoutes, { handlePaymentWebhook } from './routes/payment';
 
 const app = express();
 app.set('trust proxy', 1);
-const PORT = parseInt(process.env.PORT || '3001', 10);
 const isProd = process.env.NODE_ENV === 'production';
 
 process.on('unhandledRejection', (reason: unknown) => {
@@ -44,7 +43,7 @@ process.on('uncaughtException', (err: Error) => {
   logger.error(`Uncaught exception: ${err.message}`, { stack: err.stack });
 });
 
-// ─── Rate Limiters ──────────────────────────────────────────────────
+// ─── Rate Limiters (unchanged) ──────────────────────────────────────
 const globalLimiter = rateLimit({
   windowMs: 5 * 60 * 1000,
   max: 2000,
@@ -194,14 +193,7 @@ app.use('/api/custom-orders', customOrderLimiter);
 app.use('/api/custom-orders', customOrderRoutes);
 app.use('/api/payment', paymentRoutes);
 
-// ─── Error Handler ──────────────────────────────────────────────────
-app.use(errorHandler);
-
-// ─── Start ──────────────────────────────────────────────────────────
-app.listen(PORT, () => {
-  console.log(`🚀 Varisca API running on port ${PORT}`);
-});
-
+// ─── Test DB route (optional, keep for debugging) ───────────────────
 app.get('/test-db', async (req, res) => {
   try {
     const result = await pool.query('SELECT * FROM customers LIMIT 1');
@@ -211,4 +203,16 @@ app.get('/test-db', async (req, res) => {
   }
 });
 
+// ─── Error Handler ──────────────────────────────────────────────────
+app.use(errorHandler);
+
+// ─── Export for Vercel (no app.listen) ──────────────────────────────
 export default app;
+
+// ─── Local development server (only when run directly) ───────────────
+if (process.env.NODE_ENV !== 'production' && !process.env.VERCEL) {
+  const PORT = parseInt(process.env.PORT || '3001', 10);
+  app.listen(PORT, () => {
+    console.log(`🚀 Varisca API running locally on port ${PORT}`);
+  });
+}
