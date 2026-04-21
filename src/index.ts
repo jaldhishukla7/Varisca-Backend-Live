@@ -164,7 +164,7 @@ app.get('/', (_req, res) => {
   res.send("API running");
 });
 
-// ─── Routes (UNCHANGED) ──────────────────────────────────────────────
+// ─── Routes ──────────────────────────────────────────────────────────
 app.use('/api/auth/login', loginLimiter);
 app.use('/api/auth', authRoutes);
 
@@ -185,6 +185,23 @@ app.use('/api/products', (req, res, next) => {
   if (req.method === 'GET') return next();
   return authMiddleware(req, res, next);
 }, productRoutes);
+
+app.use('/api/categories', categoryRoutes);
+app.use('/api/brands', brandRoutes);
+app.use('/api/attributes', attributeRoutes);
+app.use('/api/orders', orderLimiter);
+app.use('/api/orders', orderRoutes);
+app.use('/api/inventory', authMiddleware, inventoryRoutes);
+app.use('/api/reports', authMiddleware, reportRoutes);
+app.use('/api/admin-users', authMiddleware, adminUserRoutes);
+app.use('/api/settings', settingsRoutes);
+app.use('/api/shipping', shippingRoutes);
+app.use('/api/marketing', authMiddleware, marketingRoutes);
+app.use('/api/finance', authMiddleware, financeRoutes);
+app.use('/api/returns-refunds', returnsRefundsRoutes);
+app.use('/api/custom-orders', customOrderLimiter);
+app.use('/api/custom-orders', customOrderRoutes);
+app.use('/api/payment', paymentRoutes);
 
 // ─── Error Handler ──────────────────────────────────────────────────
 app.use(errorHandler);
