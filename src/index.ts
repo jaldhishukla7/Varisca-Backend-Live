@@ -209,10 +209,10 @@ app.use(errorHandler);
 // ─── Export for Vercel (no app.listen) ──────────────────────────────
 export default app;
 
-// ─── Local development server (only when run directly) ───────────────
-if (process.env.NODE_ENV !== 'production' && !process.env.VERCEL) {
+// ─── Start server unless running on Vercel ──────────────────────────
+if (!process.env.VERCEL) {
   const PORT = parseInt(process.env.PORT || '3001', 10);
   app.listen(PORT, () => {
-    console.log(`🚀 Varisca API running locally on port ${PORT}`);
+    console.log(`🚀 Varisca API running on port ${PORT}`);
   });
 }
