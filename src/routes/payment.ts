@@ -3,7 +3,12 @@ import { Router, Request, Response } from 'express';
 import crypto from 'crypto';
 import Joi from 'joi';
 import pool from '../db';
-import { getRazorpay, getRazorpayKeyId, isRazorpayConfigured } from '../lib/razorpay';
+import {
+  getRazorpay,
+  getRazorpayKeyId,
+  isRazorpayConfigured,
+  resolveRazorpayConfig,
+} from '../lib/razorpay';
 import { optionalCustomerAuthMiddleware } from '../middleware/auth';
 import { asyncHandler, AppError } from '../middleware/errorHandler';
 import logger from '../utils/logger';
@@ -60,7 +65,7 @@ router.post(
   '/create-order',
   optionalCustomerAuthMiddleware,
   asyncHandler(async (req: Request, res: Response) => {
-    if (!isRazorpayConfigured()) {
+    if (!(await isRazorpayConfigured())) {
       res.status(503).json({ success: false, message: 'Razorpay is not configured on the server' });
       return;
     }
@@ -100,7 +105,7 @@ router.post(
     }
 
     const amountPaise = Math.round(expectedRupees * 100);
-    const rz = getRazorpay();
+    const rz = await getRazorpay();
 
     const rzOrder = await rz.orders.create({
       amount: amountPaise,
@@ -124,7 +129,7 @@ router.post(
       rzOrderId: rzOrder.id,
       amount: rzOrder.amount,
       currency: rzOrder.currency,
-      key: getRazorpayKeyId(),
+      key: await getRazorpayKeyId(),
     });
   }),
 );
@@ -133,7 +138,7 @@ router.post(
 router.post(
   '/verify',
   asyncHandler(async (req: Request, res: Response) => {
-    if (!isRazorpayConfigured()) {
+    if (!(await isRazorpayConfigured())) {
       res.status(503).json({ success: false, message: 'Razorpay not configured' });
       return;
     }
@@ -145,7 +150,8 @@ router.post(
     }
 
     const { razorpay_order_id, razorpay_payment_id, razorpay_signature } = value;
-    const secret = process.env.RAZORPAY_KEY_SECRET || '';
+    const config = await resolveRazorpayConfig();
+    const secret = config?.key_secret || '';
     if (!secret) {
       res.status(503).json({ success: false, message: 'Razorpay not configured' });
       return;
@@ -163,7 +169,7 @@ router.post(
       return;
     }
 
-    const rz = getRazorpay();
+    const rz = await getRazorpay();
     let method: string | null = null;
     try {
       const p = await rz.payments.fetch(razorpay_payment_id);
